@@ -42,10 +42,6 @@ The dataset includes features such as:
    ```bash
    cd loan-status-prediction
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 4. Run the Jupyter Notebook:
    ```bash
    jupyter notebook
